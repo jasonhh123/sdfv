@@ -1,0 +1,71 @@
+.ml-132 {
+  margin-left: 8.25rem;
+}
+.mt-178 {
+  margin-top: 11.13rem;
+}
+.page {
+  padding: 5.38rem 15.75rem 15.31rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.text {
+  color: #000000;
+  font-size: 3rem;
+  font-family: Inter;
+  line-height: 2.22rem;
+}
+.group {
+  margin-right: 2rem;
+}
+.font {
+  font-size: 1.5rem;
+  font-family: Inter;
+  line-height: 1.11rem;
+  color: #000000;
+}
+.text_2 {
+  line-height: 1.13rem;
+}
+.group_2 {
+  margin-left: 3.13rem;
+  margin-right: 4.13rem;
+}
+.image {
+  width: 38.81rem;
+  height: 33.5rem;
+}
+.group_3 {
+  margin-top: 2.88rem;
+  line-height: 1.81rem;
+  width: 37.07rem;
+  height: 24.1rem;
+}
+.text_3 {
+  color: #000000;
+  font-size: 2.5rem;
+  font-family: Inter;
+  line-height: 3rem;
+}
+.font_2 {
+  font-size: 2rem;
+  font-family: Inter;
+  line-height: 2.38rem;
+  color: #000000;
+}
+.font_3 {
+  font-size: 1.5rem;
+  font-family: Inter;
+  line-height: 1.81rem;
+  color: #000000;
+}
+.text_4 {
+  margin-left: 0.5rem;
+  color: #000000;
+  font-size: 2.25rem;
+  font-family: Inter;
+  line-height: 2.69rem;
+}

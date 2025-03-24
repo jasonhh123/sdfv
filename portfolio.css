@@ -1,0 +1,51 @@
+.ml-132 {
+  margin-left: 8.25rem;
+}
+.page {
+  padding: 5.38rem 15.75rem 13.44rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.font {
+  font-size: 3rem;
+  font-family: Inter;
+  color: #000000;
+}
+.text {
+  line-height: 2.22rem;
+}
+.group {
+  margin-right: 2rem;
+}
+.font_2 {
+  font-size: 1.5rem;
+  font-family: Inter;
+  line-height: 1.11rem;
+  color: #000000;
+}
+.text_2 {
+  line-height: 1.13rem;
+}
+.text_3 {
+  margin-left: 4rem;
+  margin-top: 5.5rem;
+  line-height: 2.32rem;
+}
+.group_2 {
+  margin-top: 10.25rem;
+  padding: 0 9.75rem;
+}
+.image {
+  border-radius: 6rem;
+  width: 27rem;
+  height: 28.44rem;
+}
+.image_2 {
+  margin-right: 2.56rem;
+  border-radius: 9.06rem;
+  width: 29.25rem;
+  height: 28.44rem;
+}
